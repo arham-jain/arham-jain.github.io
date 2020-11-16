@@ -5,7 +5,7 @@ date: 2020-11-15 12:00:00 +0530
 categories: [microservices, building-microservices, sam-newman, book-notes]
 ---
 
-Book stash is a series wheren, I put out my chapter wise notes on Books. The following are my notes from the book building microservices chapter 2, the Evolutionary Architect
+> Book stash is a series wheren, I put out my chapter wise notes on books. The following are my notes from the book _Building Microservices - Chapter 2, The Evolutionary Architect_
 
 # The Evolutionary Architect
 
