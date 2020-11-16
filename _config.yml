@@ -3,7 +3,7 @@ description: My personal stuff
 author: Arham Jain
 github: https://github.com/arham-jain
 about: A developer trying to build and learn stuff!
-google_analytics: UA-XXXXXXXX-Y
+google_analytics: G-5ZD73RBD0X
 
 enableTags: true
 tagarray: []
@@ -49,4 +49,4 @@ compress_html:
   comments: ["<!-- ", " -->"]
   endings: all
   ignore:
-    envs: ['development']
+    envs: ['production']
