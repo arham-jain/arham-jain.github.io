@@ -128,7 +128,7 @@ categories: [microservices, building-microservices, sam-newman, book-notes]
 ### A Real-World Example
 
 <p align="center">
-    <img src="https://interview-daily-assets.s3-ap-southeast-1.amazonaws.com/blog/a-real-world-example-blog.png" alt="A Real-World Example" width="600" class="center"/>
+    <img src="/static/img/post/a-real-world-example.png" alt="A Real-World Example" width="600" class="center"/>
 </p>
 
 ## The Required Standard
